@@ -1,0 +1,28 @@
+{
+  "repo": "acronis-cyber-protect-advanced",
+  "product": "Acronis Cyber Protect Advanced",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://acronis.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "acronis-guide",
+    "acronis-download-page",
+    "acronis-desktop",
+    "setup-acronis-windows",
+    "acronis-getting-started",
+    "acronis-update",
+    "utility",
+    "configuration",
+    "deployment",
+    "setup-guide",
+    "software",
+    "productivity-app",
+    "installation"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "acronis",
+  "nexpath_app_name": "Acronis"
+}
